@@ -5,6 +5,7 @@ class Solution:
         else :
             return -1
 #return haystack.find(needle) if needle in haystack else -1
+
 class solution:
   def process(self,haystack:str,needle:str)-> int:
     if needle in haystack:
